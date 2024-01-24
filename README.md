@@ -1,9 +1,4 @@
 
-Votre programme Java est un convertisseur de température entre degrés Celsius et Fahrenheit. L'utilisateur peut choisir le mode de conversion (Celsius vers Fahrenheit ou Fahrenheit vers Celsius) et saisir une température à convertir. Le programme effectue ensuite la conversion et affiche le résultat, en demandant à l'utilisateur s'il souhaite effectuer une autre conversion.
-
-Voici une description de votre projet pour GitHub :
-
-Convertisseur de Température
 Ce programme Java propose un convertisseur de température permettant à l'utilisateur de convertir des valeurs entre degrés Celsius et Fahrenheit. L'application offre la possibilité de choisir le mode de conversion (Celsius vers Fahrenheit ou Fahrenheit vers Celsius), saisir une température à convertir, puis affiche le résultat de la conversion.
 
 Fonctionnalités
