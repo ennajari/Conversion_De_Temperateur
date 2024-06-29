@@ -1,7 +1,7 @@
 import java.util.Scanner;
 class Conversion_De_Temperateur {
 public static void main(String[] args) {
-// Ennajari Abdellah 😊
+ // Ennajari Abdellah 😊
 Scanner sc = new Scanner(System.in);
 //initialisation des variables
 double aConvertir, convertit=0;
